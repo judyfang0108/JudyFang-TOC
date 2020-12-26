@@ -16,7 +16,7 @@
  **先輸入欲查詢地區之代碼(如下圖):** <br> 
 ![enter image description here](https://i.imgur.com/4cyfgBT.jpg) <br> 
  **接著輸入欲查詢電影之代碼(如下圖):** <br> 
- ![enter image description here](https://i.imgur.com/XkEgAF0.jpg) <br> 
+ ![enter image description here](https://i.imgur.com/ZynrSxi.jpg) <br> 
  **最後輸入欲查詢日期(如下圖):** <br> 
 ![enter image description here](https://i.imgur.com/3HLP2aI.jpg) <br> 
  **得最後之結果(如下圖):** <br> 
