@@ -1,3 +1,6 @@
+# Theory of Computation Projet
+The homework of Theory of Computation. Crawl the data from Yahoo movie and a Taiwan Internet  forum - PTT, and use linebot as a interface to showcase those data. Also use Finite State Machine as the state transition method.
+
 # 電影時刻
  歡迎使用電影時刻!
  ##  Bot Basic ID: # @954zsnoj
